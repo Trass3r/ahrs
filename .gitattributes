@@ -1,0 +1,6 @@
+*         text=auto
+*.vcproj  eol=crlf
+*.vcxproj eol=crlf
+*.bat     eol=crlf
+
+*.sh      eol=lf
