@@ -2,3 +2,7 @@
 	path = 3rdparty/cereal
 	url = https://github.com/USCiLab/cereal.git
 	branch = master
+[submodule "Catch"]
+	path = 3rdparty/Catch
+	url = https://github.com/philsquared/Catch.git
+	branch = master
